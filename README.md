@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Addhya</h1>
-<h3 align="center">Certainly! Here's a LinkedIn summary tailored for a Computer Science student:
+<h3 align="center">
 
 "As a passionate and driven Computer Science student, I am on a journey to explore the ever-evolving world of technology and its limitless possibilities. My academic pursuits have equipped me with a strong foundation in computer science principles, programming languages, and problem-solving skills.
 
