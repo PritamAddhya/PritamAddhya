@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pritam Addhya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Certainly! Here's a LinkedIn summary tailored for a Computer Science student:
+
+"As a passionate and driven Computer Science student, I am on a journey to explore the ever-evolving world of technology and its limitless possibilities. My academic pursuits have equipped me with a strong foundation in computer science principles, programming languages, and problem-solving skills.
+
+I am committed to staying at the forefront of the tech industry by actively engaging in projects and coursework that challenge me to think critically and creatively. My experiences have allowed me to collaborate with diverse teams, fostering my ability to communicate complex technical concepts effectively.
+
+I am particularly interested in areas such as machine learning, artificial intelligence, and cybersecurity, where I aim to apply my knowledge to address real-world challenges and make a positive impact. I am always eager to learn and adapt to new technologies and methodologies.
+
+As I continue my educational journey, I am actively seeking internship and networking opportunities to further develop my skills and gain practical experience in the field. I look forward to connecting with like-minded professionals, mentors, and peers who share a passion for innovation and technology.
+
+Let's connect and explore how we can collaborate to drive innovation and make a difference in the tech world. Feel free to reach out to discuss projects, opportunities, or simply share insights on the exciting world of computer science."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamaddhya&label=Profile%20views&color=0e75b6&style=flat" alt="pritamaddhya" /> </p>
 
