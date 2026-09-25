@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm PRITAM
+💻 Software Engineer | 🚀 Developer | 🌱 Lifelong Learner
+A passionate developer focused on creating clean, scalable, and real-world solutions.
 
-<!--
-**PritamAddhya/PritamAddhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+🌱 Currently learning PYTHON
+💡 Interested in Web Development, AI, Cloud.
+🎯 Goal: A passionate developer
+💬 Ask me about C and C++
+📫 Reach me at pritamaddhya990@gmail.com
+⚡ Fun fact: I solve others problems happily.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Languages : C, C++, HTML, CSS, Javascript, JAVA, PYTHON, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Platforms
+✏️ Customize the technologies above according to your actual skills.
+
+
+📊 GitHub Stats
+
+🏆 GitHub Achievements
+
+🌐 Connect With Me : pritamaddhya990@gmail.com
+
+💭 Developer Quote
+"Turning ideas into reliable software, one line of code at a time."
+
