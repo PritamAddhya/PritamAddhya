@@ -8,18 +8,13 @@ A passionate developer focused on creating clean, scalable, and real-world solut
 🎯 Goal: A passionate developer
 💬 Ask me about C and C++
 📫 Reach me at pritamaddhya990@gmail.com
-⚡ Fun fact: I solve others problems happily.
+⚡ Fun fact: I love to solve others problems happily.
 
 🛠️ Tech Stack
 Languages : C, C++, HTML, CSS, Javascript, JAVA, PYTHON, MongoDB
 
 Tools & Platforms
 ✏️ Customize the technologies above according to your actual skills.
-
-
-📊 GitHub Stats
-
-🏆 GitHub Achievements
 
 🌐 Connect With Me : pritamaddhya990@gmail.com
 
